@@ -1,0 +1,30 @@
+Mon Feb 10 03:27:32 UTC 2025
+
+ Printing s3 buckets 
+ 
+2025-01-15 02:37:17 devops-news
+2025-02-09 14:30:07 karthi123098
+
+ Printing ec2 instance id 
+
+"i-081199e3097d10042"
+
+ Printing lambda functions 
+
+{
+    "Functions": []
+}
+
+ Printing iam users 
+
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "karthik",
+            "UserId": "AIDAWMFUPQY3TD2OWABG3",
+            "Arn": "arn:aws:iam::438465168951:user/karthik",
+            "CreateDate": "2025-02-02T13:53:49+00:00"
+        }
+    ]
+}
